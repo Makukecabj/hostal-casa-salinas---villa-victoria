@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Hostal Casa Salinas Villa Victoria",
+    "short_name": "Hostal Casa Salinas Villa Victoria",
+    "tagline": "Hostal Casa Salinas Villa Victoria · Ecuador",
+    "description": "Hostal Casa Salinas Villa Victoria, tu alojamiento ideal en Ecuador.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Ecuador · Dionicio Nuñez",
+    "title_line1": "Bienvenido a",
+    "title_em": "Hostal Casa Salinas Villa Victoria",
+    "title_line2": "",
+    "subtitle": "Todo lo que buscás para viajar tranquilo por Ecuador."
+  },
+  "location": {
+    "address": "Dionicio Nuñez, entre Gral Enriquez Gallo, y y Jaime Roldos Aguilera, 240209 Salinas, Ecuador",
+    "district": "Ecuador",
+    "city": "Ecuador",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Dionicio Nuñez, entre Gral Enriquez Gallo, y y Jaime Roldos Aguilera, 240209 Salinas, Ecuador, Ecuador",
+    "map_embed": "https://maps.google.com/maps?q=Dionicio+Nu%C3%B1ez%2C+entre+Gral+Enriquez+Gallo%2C+y+y+Jaime+Roldos+Aguilera%2C+240209+Salinas%2C+Ecuador%2C+Ecuador&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Ecuador. Cerca de los mejores puntos turísticos.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/593980334732",
+    "phone": "+593980334732",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Hostal+Casa+Salinas+-+Villa+Victoria/data=!4m10!3m9!1s0x902e0fec913eb6d1:0xb8ecde1936ea9564!5m2!4m1!1i2!8m2!3d-2.2066389!4d-80.971713!16s%2Fg%2F11v0y0x712!19sChIJ0bY-kewPLpARZJXqNhne7Lg?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Hostal+Casa+Salinas+-+Villa+Victoria/data=!4m10!3m9!1s0x902e0fec913eb6d1:0xb8ecde1936ea9564!5m2!4m1!1i2!8m2!3d-2.2066389!4d-80.971713!16s%2Fg%2F11v0y0x712!19sChIJ0bY-kewPLpARZJXqNhne7Lg?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Conocé al equipo",
+    "title": "Un poco de Hostal Casa Salinas Villa Victoria.",
+    "paragraphs": [
+      "En Hostal Casa Salinas Villa Victoria nos encanta recibir viajeros de todo el mundo. Tenemos todo lo que necesitás: WiFi, pileta, parrilla, cocina y una ubicación top en Ecuador. Escribinos y te contamos más."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Respondemos al toque por WhatsApp",
+    "Reservá directo, sin comisión ni sorpresas",
+    "Atención como en casa, posta"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Habitaciones limpias y cómodas",
+      "description": "Todo lo que necesitás para descansar después de explorar.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi gratis",
+      "description": "Subite las fotos y mandá los audios sin drama.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Bien ubicados",
+      "description": "A pocas cuadras de todo lo que necesitás.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    },
+    {
+      "author": "Rocío B.",
+      "rating": 5,
+      "text": "Todo perfecto: la limpieza, la atención y las recomendaciones de la gente del lugar. Diez puntos."
+    },
+    {
+      "author": "Agustina L.",
+      "rating": 5,
+      "text": "La mejor elección de nuestro viaje. Todo impecable y la gente que atiende te hace sentir bienvenido."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Hay toallas?",
+      "answer": "Consultanos, generalmente tenemos para prestar."
+    },
+    {
+      "question": "¿Tienen estacionamiento?",
+      "answer": "Sí, tenemos lugar para estacionar sin cargo."
+    },
+    {
+      "question": "¿A qué hora llego y me voy?",
+      "answer": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+    },
+    {
+      "question": "¿Se puede cancelar la reserva?",
+      "answer": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "Hostal Casa Salinas Villa Victoria",
+    "copyright": "© 2026 Hostal Casa Salinas Villa Victoria. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Hostal Casa Salinas Villa Victoria",
+        "short_name": "Hostal Casa Salinas Villa Victoria",
+        "tagline": "Hostal Casa Salinas Villa Victoria · Accommodation",
+        "description": "Comfortable rooms and good vibes at Hostal Casa Salinas Villa Victoria, Ecuador.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Ecuador · Dionicio Nuñez",
+        "title_line1": "Your next stop:",
+        "title_em": "Hostal Casa Salinas Villa Victoria",
+        "title_line2": "",
+        "subtitle": "Your Ecuador hideaway after a day of exploring."
+      },
+      "about": {
+        "eyebrow": "A bit about us",
+        "title": "Let us tell you about Hostal Casa Salinas Villa Victoria.",
+        "paragraphs": [
+          "Come to Hostal Casa Salinas Villa Victoria and discover Ecuador from a cool hostel. We have pool, BBQ, equipped kitchen, WiFi and everything you need to feel at home."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Ecuador. The best place to stay in the area."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is the area safe?",
+          "answer": "Yes, it's a quiet neighborhood. Travelers recommend it."
+        },
+        {
+          "question": "Can I cancel my booking?",
+          "answer": "We're flexible. Just let us know in advance and we'll sort it out."
+        },
+        {
+          "question": "Can I smoke?",
+          "answer": "In outdoor areas, yes. Not inside the building."
+        },
+        {
+          "question": "Are towels provided?",
+          "answer": "Message us, we usually have towels available to lend."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "WhatsApp for everything",
+        "Real prices, no fine print",
+        "Travelers from all over have stayed with us"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        },
+        {
+          "author": "Anna M.",
+          "rating": 5,
+          "text": "Beautiful place, close to everything. The hosts helped us with everything we needed."
+        },
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "Sarah K.",
+          "rating": 5,
+          "text": "Amazing hospitality from the moment we arrived. Great location and such a warm vibe."
+        }
+      ],
+      "footer": {
+        "description": "Hostal Casa Salinas Villa Victoria",
+        "copyright": "© 2026 Hostal Casa Salinas Villa Victoria. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Hostel",
+        "name": "Hostal Casa Salinas Villa Victoria",
+        "description": "Hostal Casa Salinas Villa Victoria: pileta, parrilla, WiFi y la mejor ubicación en Ecuador.",
+        "url": "",
+        "telephone": "+593980334732",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Hostal+Casa+Salinas+-+Villa+Victoria/data=!4m10!3m9!1s0x902e0fec913eb6d1:0xb8ecde1936ea9564!5m2!4m1!1i2!8m2!3d-2.2066389!4d-80.971713!16s%2Fg%2F11v0y0x712!19sChIJ0bY-kewPLpARZJXqNhne7Lg?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Dionicio Nuñez, entre Gral Enriquez Gallo, y y Jaime Roldos Aguilera, 240209 Salinas, Ecuador",
+          "addressLocality": "Ecuador",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Habitaciones limpias y cómodas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Bien ubicados",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Hay toallas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, generalmente tenemos para prestar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen estacionamiento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, tenemos lugar para estacionar sin cargo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿A qué hora llego y me voy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede cancelar la reserva?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
